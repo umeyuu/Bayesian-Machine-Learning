@@ -8,4 +8,4 @@
 
 `Baysian_Neural_Network.ipynb`:ベイジアンニューラルネットワークを実装した
 
-`MC_dropout.ipynb`:モンテカルロドロップアウトを実装している
+`MC_dropout.ipynb`:モンテカルロドロップアウトをCNNで実装した
